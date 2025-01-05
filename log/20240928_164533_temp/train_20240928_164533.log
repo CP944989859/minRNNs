@@ -1,0 +1,5 @@
+INFO:__main__:>>>>>>>>>>>>>>>>>>>>>>>>  Running at 2024-09-28 16:45:33.489992
+INFO:__main__:Params  below: 
+INFO:__main__:epochs ==> 100
+INFO:__main__:model_size ==> [2, 10]
+INFO:__main__:train_dir ==> ./log/
